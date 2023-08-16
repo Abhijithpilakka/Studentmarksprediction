@@ -5,6 +5,6 @@ scikit-learn
 catboost
 xgboost
 dill
-Flask
+flask
 dataclasses
 #-e .

@@ -7,4 +7,7 @@ xgboost
 dill
 flask
 dataclasses
+flask_cors
+ipykernel
+lime
 #-e .
